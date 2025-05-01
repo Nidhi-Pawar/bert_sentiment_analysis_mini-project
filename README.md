@@ -10,14 +10,6 @@ It demonstrates:
 - Regularization, learning rate scheduling, and early stopping to prevent overfitting
 - Evaluation using Accuracy and F1-score metrics
 ---
-### 📈 Key Results
-Metric	Validation Score
-Accuracy	~86%
-F1 Score	~86%
-
-* Test data was unlabeled; metrics reported on validation set.
----
-
 ### 🛠 Tech Stack
 - HuggingFace Transformers (bert-base-uncased)
 - PyTorch (with torch.cuda.amp for mixed-precision training)
